@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face Recognition
 * __Course:__ Computer Vision. 
 * __Skills and Tools:__ Keras, CNN, Siamese Networks, Triplet loss. 
 * __Data:__ https://www.kaggle.com/frules11/pins-face-recognition/
